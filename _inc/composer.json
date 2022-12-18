@@ -1,0 +1,8 @@
+{
+    "require": {
+        "twbs/bootstrap": "5.2.0-beta1",
+        "phpauth/phpauth": "dev-master",
+        "tamtamchik/simple-flash": "^2.0",
+        "components/jquery": "^3.6"
+    }
+}
